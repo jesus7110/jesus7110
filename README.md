@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ayan Hazra Aka Jesus</h1>
+<h1 align="center">Hi 👋, I'm Ayan Hazra | Jesus</h1>
 <h3 align="center">ML Developer | Full-Stack Developer</h3>
+<h3 align="center">Lets Connect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesus7110&label=Profile%20views&color=0e75b6&style=flat" alt="jesus7110" /> </p>
 
