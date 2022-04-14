@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesus7110&label=Profile%20views&color=0e75b6&style=flat" alt="jesus7110" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jesus7110" target="blank"><img src="https://img.shields.io/twitter/follow/jesus7110?logo=twitter&style=for-the-badge" alt="jesus7110" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jesus__7110" target="blank"><img src="https://img.shields.io/twitter/follow/jesus__7110?logo=twitter&style=for-the-badge" alt="jesus__7110" /></a> </p>
 
 - 🔭 I’m currently working on **Startup**
 
