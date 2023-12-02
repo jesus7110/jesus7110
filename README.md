@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus7110&show_icons=true&locale=en&layout=compact" alt="jesus7110" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesus7110&" alt="jesus7110" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jesus7110&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
