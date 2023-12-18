@@ -8,13 +8,9 @@
 
 - 🔭 I’m currently working on **Startup**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-
-- 🤝 I’m looking for help with **Image Processing**
-
-- 👨‍💻Find my projects [here](here)
+- 🤝 I’m looking for help with **Deep Learning & Image Processing**
 
 - 💬 Ask me about **NodeJs, ExpressJs, ReactJs**
 
